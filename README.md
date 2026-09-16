@@ -1,8 +1,8 @@
-# 🍓 JUMP
+# 🍓 pinku and berri
 
 My first ever game development project! 🎮
 
-JUMP is a small 2D platformer where you play as **Pinkman**, explore a farm, collect strawberries, and finally reach the trophy. 🏆
+JUMP is a small 2D platformer where you play as **pinku** also called as pinkman, explore a farm, collect strawberries, and finally reach the trophy. 🏆
 
 This started as me just wanting to learn Godot... and somehow turned into an actual playable game. 😭
 
