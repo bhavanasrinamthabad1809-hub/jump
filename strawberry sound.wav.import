@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dasiel8l5x5bs"
+path="res://.godot/imported/strawberry sound.wav-b5d7bedb7b1d2a879a0d6bf451a972d4.sample"
+
+[deps]
+
+source_file="res://strawberry sound.wav"
+dest_files=["res://.godot/imported/strawberry sound.wav-b5d7bedb7b1d2a879a0d6bf451a972d4.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
