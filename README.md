@@ -133,7 +133,10 @@ Hi! I'm **Bhavanasri** 👋
 
 I'm a teenager learning tech, building random things, breaking them, fixing them, and repeating the process. 😂
 
-This is my **first game development project**, and JUMP is basically proof that you don't need to know everything before you start.
+This is my **first game development project**, and pinku and berri is basically proof that you don't need to know everything before you start.
+
+link to playyy 
+https://bhavanasri.itch.io/berri
 
 You just need to start. 🚀
 
