@@ -3,7 +3,8 @@
 My first ever game made with Godot! 🎮
 
 Help Pinku collect all the strawberries and reach the trophy 🏆
-<img width="1920" height="1080" alt="Screenshot 2026-09-16 204123" src="https://github.com/user-attachments/assets/0ff1cf3f-0a01-4766-bc38-08bec8307cc1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b8ca2748-cd3f-4feb-943a-a888ea69a53f" />
+
 
 
 
